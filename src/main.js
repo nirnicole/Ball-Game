@@ -1,3 +1,7 @@
+/*
+notes: insert everything to one function to take load off the dom
+        
+*/
 //constants:
 const playingField = document.getElementById("playing-field")
 const ball = document.getElementById("ball")
