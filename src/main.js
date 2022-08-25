@@ -1,6 +1,6 @@
 /*
 notes: insert everything to one function to take load off the dom
-        
+        take the hardcoded values to a const
 */
 //constants:
 const playingField = document.getElementById("playing-field")
